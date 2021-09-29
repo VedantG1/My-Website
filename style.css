@@ -1,0 +1,25 @@
+.line {
+    width: 80px;
+    background-color: black;
+    height: 6px;
+    margin: auto;
+}
+
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+img {
+    transition: transform .2s
+}
+
+img:hover {
+    transform: scale(0.9)
+}
